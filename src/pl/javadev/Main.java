@@ -1,4 +1,4 @@
-package pl.krzysztofbaranski;
+package pl.javadev;
 
 import static java.lang.String.format;
 
